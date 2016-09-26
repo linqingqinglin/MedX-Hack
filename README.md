@@ -35,6 +35,9 @@
  
  #Main.storyboard
     Visual Image editing 
+    
+ #MedXPrototype.zip
+ Composed of  Java script of  online visualization of  the  medical informatics system . 
  
  
  
